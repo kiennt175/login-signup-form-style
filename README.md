@@ -1,2 +1,2 @@
-# signup-signin-form-style
-Style for sign up, sign in form
+# login-signup-form-style
+Style for log in, sign up form
